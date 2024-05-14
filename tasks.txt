@@ -1,0 +1,14 @@
+admin, Register Users with task_manager.py, Use task_manager.py to add the usernames and passwords for all team members that will be using this program., 2019-10-10, 2019-10-20, No
+admin, Assign initial tasks, Use task_manager.py to assign each team member with appropriate tasks, 2019-10-10, 2019-10-25, No
+ramy, capstone project, complete what you are working on, 2024-03-05, 2024-06-06, No
+ramy, correct error, correct the error bugging you, 2024-03-05, 2024-06-04, No
+tommy, Nearly done, nearly done with the project, 2024-03-06, 2024-10-22, No
+mathew, we love to work, working is fun, 2024-03-06, 2024-03-10, No
+marky, think I am finished, finished project, 2024-03-06, 2024-03-07, No
+lizzy, groceries, buy banans and apples please, 2024-03-06, 2024-03-06, No
+marky, date format, making sure it works, 2024-03-07, 2014-10-21, No
+admin, Car Show, Buy a new car, 2024-03-07, 2024-12-25, No
+tommy, Elephants, describe the animal, 2024-03-07, 2030-10-20, No
+josh, Desk purchase, Buy a new desk, 2024-03-07, 2077-07-07, No
+admin, showing, showing coding, 2024-03-13, 2024-10-21, No
+josh, showing project, please show the project to freddy, 2024-03-14, 2024-03-17, No
