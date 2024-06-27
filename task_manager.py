@@ -2,7 +2,7 @@
 
 # I created this program for a small business users to add, track and view their individual tasks or the total amount
 # of tasks for the company. 
-
+# Admins are also able to add new users to the program, and display statistics regarding the company.
 
 
 # Importing datetime format.
